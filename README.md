@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xTidewaterx
-- 👀 I’m interested in decentralisation and  turning real world concepts into a living organism on the internet
+- 👀 I’m interested in decentralisation and  turning real world concepts into digital/living organisms on the internet
 - 🌱 I’m currently learning react, sass, typescript
 - 💞️ I’m looking to collaborate on a startup, have many ideas of fluently monetizing traditionally free platforms
 - 📫 How to reach me: mail: johan12ab@gmail.com
