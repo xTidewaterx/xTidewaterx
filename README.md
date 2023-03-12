@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xTidewaterx
 - 👀 I’m interested in decentralisation and  turning real world concepts into digital/living organisms on the internet
 - 🌱 I’m currently doing a lot of stuff with React
-- 💞️ I’m looking to collaborate on a startup, and I have many ideas about how to fluently monetize traditionally free platforms to increase the quality of the current offering
+- 💞️ I’m looking to collaborate on a startup, and I have many ideas on how to fluently monetize traditionally free platforms to increase the quality of the current offering
 - 📫 How to reach me: mail: johan12ab@gmail.com
 
 <!---
