@@ -4,6 +4,7 @@
 -   ✨  Jeg veldig motivert for å jobbe i et selskap hvor jeg kan utvikle meg.
 
 - 📫 Nå meg via mail: johan12ab@gmail.com
+- ✨Portfolio-side: https://fancy-biscotti-b9b25e.netlify.app
 
 <!---
 xTidewaterx/xTidewaterx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
