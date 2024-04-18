@@ -4,8 +4,8 @@
 -   ✨  Jeg er veldig motivert for å jobbe i et selskap med variert kunnskap hvor jeg kan utvikle meg og være en god lagspiller, spesielt Vik i Sogn virker veldig bra.
 
 - 📫 Nå meg via mail: johan@erobust.no
-- ✨Portfolio-siden min er under konstruksjon
-- Jeg kommer til å dele flere av mine desentraliserte prosjekter her, foreløpig forbedrer jeg mine kunnskaper innenfor kryptering og Wordpress, PHP, React, HTML & CSS. 
+
+- ✨ Jeg kommer til å dele flere av mine desentraliserte prosjekter her, foreløpig forbedrer jeg mine kunnskaper innenfor kryptering og Wordpress, PHP, React, HTML & CSS og TypeScript. 
 
 <!---
 xTidewaterx/xTidewaterx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
