@@ -1,7 +1,7 @@
 - 👋 Hei, jeg heter Johan Myhre. Jeg har en forkjærlighet for React! Min lidenskap er å programmere gode, digitale løsninger som kan oppnå suksesss på det endeløse og umidellbare internettet. 
 - ✨  Jeg liker desentraliserte noder, klassisk musikk og fjellturer! 
 -  ✨ Foreløpig bygger jeg et sosialt medium med React og Firebase, min drøm er å være en del av et engasjert team med utviklere som alle hjelper hverandre!
--   ✨  Jeg veldig motivert for å jobbe i et selskap hvor jeg kan utvikle meg og være en god lagspiller.
+-   ✨  Jeg veldig motivert for å jobbe i et selskap hvor jeg kan utvikle meg og være en god lagspiller, spesielt Vik i Sogn virker veldig bra.
 
 - 📫 Nå meg via mail: johan@erobust.no
 - ✨Portfolio-siden min er under konstruksjon
